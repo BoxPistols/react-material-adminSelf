@@ -51,7 +51,7 @@ export default function Dashboard(props) {
 
   return (
     <>
-      <PageTitle title="Dashboard" button="Latest Reports" />
+      <PageTitle title="Dashboard / Use React,ApexCharts" button="Latest Reports" />
       <Grid container spacing={4}>
         <Grid item lg={3} md={4} sm={6} xs={12}>
           <Widget
